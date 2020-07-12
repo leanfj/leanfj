@@ -17,7 +17,7 @@ Abrangendo boas práticas de codificação semântica e acessibilidade.
 ## Formação
 
 UniCarioca - Análise e Desenvolvimento de Sistemas
-1º Semestre - Em curso
+2º Semestre - Em curso
 
 Escola Técnica Estadual Visconde de Mauá / 2º Grau
 2000 - 2005, RIO DE JANEIRO
@@ -27,6 +27,7 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 - (2019 - Atual)
   **4 MAP It Consulting**
   Analista de Contas Júnior
+
   - Administração de ativos de telefonia móvel de cliente outsourcing(TV GLOBO)
 - (2017 - Atual)
   **Freelancer** -
@@ -37,6 +38,7 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 - (2006 - 2016)
   **Nec Latin America** -
   Auxiliar Técnico / Administrativo.
+
   - Execução de projetos de infra estrutura de telecomunicação
   - Gerenciamento de ativos e administração de documentos
 
@@ -137,6 +139,7 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 
 ## Cursos em andamento
 
+- Server-side Development with NodeJS, Express and MongoDB (Cousera / [Repositório - GitHub](https://github.com/leanfj/Coursera-server-side-nodejs))
 - Become a WordPress Developer: Unlocking Power With Code ( Brad Schiff - Udemy / [Repositório - Github](https://github.com/leanfj/university-theme) - [Demo](https://lfwebinnovations.com.br/temas/university-theme/))
 
 ## Redes Sociais
