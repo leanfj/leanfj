@@ -6,11 +6,11 @@
 :iphone: +55 (21) 96883 - 6199 <br>
 :envelope: leanfj@hotmail.com
 
-Olá, meu nome é Leandro e eu sou estudante do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade UniCarioca. Estou me especializando no Desenvolvimento Web focado em ser um profissional fullstack.
+Olá, meu nome é Leandro e eu sou estudante do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade UniCarioca. Estou me especializando no Desenvolvimento Web.
 
-Meu conhecimento principal e mais avançado é dentro da stack utilizando JAVASCRIPT tanto para front end usando REACTJS e ANGULAR como no bakc end com NODEJS e EXPRESSJS.
+Meu conhecimento principal e mais avançado é dentro da stack utilizando JAVASCRIPT tanto para front end usando REACTJS e ANGULAR como no backend com NODEJS e EXPRESSJS.
 
-Faço uso de ferramentas como pré-processadores (SASS),frameworks CSS (BOOTSTRAP e MATERIAL-UI), automatizadores de tarefas (GULP/WEBPACK), para controle de versão (GIT)
+Faço uso de ferramentas como pré-processadores (SASS), frameworks CSS (BOOTSTRAP e MATERIAL-UI), automatizadores de tarefas (GULP/WEBPACK), para controle de versão (GIT)
 
 Abrangendo boas práticas de codificação semântica e acessibilidade.
 
@@ -28,18 +28,19 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
   **4 MAP It Consulting**
   Analista de Contas Júnior
 
-  - Administração de ativos de telefonia móvel de cliente outsourcing(TV GLOBO)
+  - Administração de ativos de telefonia móvel de cliente outsourcing (TV GLOBO)
+
 - (2017 - Atual)
   **Freelancer** -
   Desenvolvimento Web
 
-  - Planejar e executar projetos como websites, aplicativos web.
+  - Planejar e executar projetos como websites e aplicativos web.
 
 - (2006 - 2016)
   **Nec Latin America** -
   Auxiliar Técnico / Administrativo.
 
-  - Execução de projetos de infra estrutura de telecomunicação
+  - Execução de projetos de infra estrutura de telecomunicações
   - Gerenciamento de ativos e administração de documentos
 
 ## Conhecimentos
@@ -77,7 +78,6 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 #### Linguagens de Programação
 
 - JavaScript
-- PHP
 
 #### Back-End
 
@@ -128,19 +128,19 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 ## Cursos Completos
 
 - HTML, CSS, and Javascript for Web Developers (Coursera-Johns Hopkins University / [Repositório - Github](https://github.com/leanfj/Coursera-HTML-CSS-and-Javascript-for-Web-Developers))
-- Apostila WD-43 Desenvolvimento Web com HTML, CSS e JavaScript ( Caelum / [Repositório - Github](https://github.com/leanfj/CAELUM-Treinamento-Desenvolvimento-Web-com-HTML-CSS-e-JavaScript))
-- Livro Dominando JavaScript com jQuery ( Casa do Código / [Repositório - Github](https://github.com/leanfj/cdd-js-jquery))
-- Livro Lógica de Programação ( Casa do Código / [Repositório - Github](https://github.com/leanfj/casadocodigo-log-prog-js))
-- Curso de HTML5 ( Curso em Video / Cod. Certificado: 4110-992-1)
-- Curso de Algoritimo ( Curso em Video / Cod. Certificado: 4110-973-1)
-- Curso de PHP 7 ( NodeStudios-Youtube / [Repositório - Github](https://github.com/leanfj/php-nodestudios))
-- Node.js para Iniciantes ( NODEBR / [Repositório - Github](https://github.com/leanfj/curso-nodejs-nodebr) / Cod. Certificado: cert_btbdtc8b)
-- Estudo Dirigido Cangaceiro Javascript ( Casa do Código / [Repositório - Github](https://github.com/leanfj/cdc-cang-javascript))
+- Apostila WD-43 Desenvolvimento Web com HTML, CSS e JavaScript (Caelum / [Repositório - Github](https://github.com/leanfj/CAELUM-Treinamento-Desenvolvimento-Web-com-HTML-CSS-e-JavaScript))
+- Livro Dominando JavaScript com jQuery (Casa do Código / [Repositório - Github](https://github.com/leanfj/cdd-js-jquery))
+- Livro Lógica de Programação (Casa do Código / [Repositório - Github](https://github.com/leanfj/casadocodigo-log-prog-js))
+- Curso de HTML5 (Curso em Video / Cod. Certificado: 4110-992-1)
+- Curso de Algoritimo (Curso em Video / Cod. Certificado: 4110-973-1)
+- Curso de PHP 7 (NodeStudios-Youtube / [Repositório - Github](https://github.com/leanfj/php-nodestudios))
+- Node.js para Iniciantes (NODEBR / [Repositório - Github](https://github.com/leanfj/curso-nodejs-nodebr) / Cod. Certificado: cert_btbdtc8b)
+- Estudo Dirigido Cangaceiro Javascript (Casa do Código / [Repositório - Github](https://github.com/leanfj/cdc-cang-javascript))
 
 ## Cursos em andamento
 
-- Server-side Development with NodeJS, Express and MongoDB (Cousera / [Repositório - GitHub](https://github.com/leanfj/Coursera-server-side-nodejs))
-- Become a WordPress Developer: Unlocking Power With Code ( Brad Schiff - Udemy / [Repositório - Github](https://github.com/leanfj/university-theme) - [Demo](https://lfwebinnovations.com.br/temas/university-theme/))
+<!--*- Server-side Development with NodeJS, Express and MongoDB (Cousera / [Repositório - GitHub](https://github.com/leanfj/Coursera-server-side-nodejs)) -->
+<!--*- Become a WordPress Developer: Unlocking Power With Code (Brad Schiff - Udemy / [Repositório - Github](https://github.com/leanfj/university-theme) - [Demo](https://lfwebinnovations.com.br/temas/university-theme/))-->
 
 ## Redes Sociais
 
