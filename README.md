@@ -2,6 +2,8 @@
 
 ##### Desenvolvedor Web - Front-end e Back-end.
 
+[![wakatime](https://wakatime.com/badge/user/219fc287-b8b4-4876-98ad-ff77abcca836.svg)](https://wakatime.com/@219fc287-b8b4-4876-98ad-ff77abcca836)
+
 :house: Rio de Janeiro / RJ <br>
 :iphone: +55 (21) 96883 - 6199 <br>
 :envelope: leanfj@hotmail.com
@@ -26,6 +28,10 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 
 - (2019 - Atual)
   **4 MAP It Consulting**
+  Analista de Desenvolvimento JR
+
+  - Desenvolvimento e manutenção de aplicação Web, Banco de Dados e DataCap/IBM
+ 
   Analista de Contas Júnior
 
   - Administração de ativos de telefonia móvel de cliente outsourcing (TV GLOBO)
