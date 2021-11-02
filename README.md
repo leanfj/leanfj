@@ -8,9 +8,9 @@
 :iphone: +55 (21) 96883 - 6199 <br>
 :envelope: leanfj@hotmail.com
 
-Olá, meu nome é Leandro e eu sou estudante do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade UniCarioca. Estou me especializando no Desenvolvimento Web.
+Olá, meu nome é Leandro e eu sou estudante do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade UniCarioca. Estou me especializando no Desenvolvimento Web, no momento estou desempenhando a função de Analista de Desenvolvimento JR na 4MAP IT Consulting.
 
-Meu conhecimento principal e mais avançado é dentro da stack utilizando JAVASCRIPT tanto para front end usando REACTJS e ANGULAR como no backend com NODEJS e EXPRESSJS.
+Meu conhecimento principal e mais avançado é dentro da stack de desenvolvimento JAVASCRIPT tanto para front end usando REACTJS como no backend com NODEJS e EXPRESSJS.
 
 Faço uso de ferramentas como pré-processadores (SASS), frameworks CSS (BOOTSTRAP e MATERIAL-UI), automatizadores de tarefas (GULP/WEBPACK), para controle de versão (GIT)
 
@@ -19,7 +19,7 @@ Abrangendo boas práticas de codificação semântica e acessibilidade.
 ## Formação
 
 UniCarioca - Análise e Desenvolvimento de Sistemas
-2º Semestre - Em curso
+4º Semestre - Em curso
 
 Escola Técnica Estadual Visconde de Mauá / 2º Grau
 2000 - 2005, RIO DE JANEIRO
@@ -77,9 +77,7 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 #### Frameworks/Libs Front-end
 
 - ReactJS
-- Angular
 - Jquery
-- Wordpress
 
 #### Linguagens de Programação
 
@@ -139,6 +137,7 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 - Livro Lógica de Programação (Casa do Código / [Repositório - Github](https://github.com/leanfj/casadocodigo-log-prog-js))
 - Curso de HTML5 (Curso em Video / Cod. Certificado: 4110-992-1)
 - Curso de Algoritimo (Curso em Video / Cod. Certificado: 4110-973-1)
+- Cuso POO JAVA (Curso em video / [Repositório - Github](https://github.com/leanfj/AulasPOO))
 - Curso de PHP 7 (NodeStudios-Youtube / [Repositório - Github](https://github.com/leanfj/php-nodestudios))
 - Node.js para Iniciantes (NODEBR / [Repositório - Github](https://github.com/leanfj/curso-nodejs-nodebr) / Cod. Certificado: cert_btbdtc8b)
 - Estudo Dirigido Cangaceiro Javascript (Casa do Código / [Repositório - Github](https://github.com/leanfj/cdc-cang-javascript))
