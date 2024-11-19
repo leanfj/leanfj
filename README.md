@@ -19,7 +19,7 @@ Abrangendo boas práticas de codificação semântica e acessibilidade.
 ## Formação
 
 UniCarioca - Análise e Desenvolvimento de Sistemas
-4º Semestre - Em curso
+2020 - 2023
 
 Escola Técnica Estadual Visconde de Mauá / 2º Grau
 2000 - 2005, RIO DE JANEIRO
@@ -27,7 +27,11 @@ Escola Técnica Estadual Visconde de Mauá / 2º Grau
 ## Experência Profissional
 
 - (2019 - Atual)
-  **4 MAP It Consulting**
+  **OCTEA**
+  Analista de Desenvolvimento PL
+
+  - Desenvolvimento e manutenção de aplicações Web(NodeJS e C#), Bancos de Dados(MongoDB e Microsoft SQLServer)
+  
   Analista de Desenvolvimento JR
 
   - Desenvolvimento e manutenção de aplicação Web, Banco de Dados e DataCap/IBM
